@@ -28,11 +28,11 @@ We can have a backlog of talks and then decide at the event which talks we are m
 1. [@plars3n](https://github.com/plars3n) - Z-Wave, when a direct association is a good idea.
 1. [@plars3n](https://github.com/plars3n) - Where to locate keypads in a home layout.
 1. [@plars3n](https://github.com/plars3n) - Centralized vs on-camera recording of IP cameras in HA.
-1. [Your Name] - [Your item, optionally linked to a product page] - asking price
-1. [Your Name] - [Your item, optionally linked to a product page] - asking price
-1. [Your Name] - [Your item, optionally linked to a product page] - asking price
-1. [Your Name] - [Your item, optionally linked to a product page] - asking price
-1. [Your Name] - [Your item, optionally linked to a product page] - asking price
+1. [Your Name] - [Talk title]
+1. [Your Name] - [Talk title]
+1. [Your Name] - [Talk title]
+1. [Your Name] - [Talk title]
+1. [Your Name] - [Talk title]
 
 ### Marketplace
 
