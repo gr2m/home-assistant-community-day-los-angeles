@@ -21,6 +21,15 @@ This is just a draft! Please create issues or pull requests to make suggestions!
 
 Maximum 5 minutes. It can be anything you want! You favorite automation, share your favorite home automation resources, describe a problem you can't resolve, etc
 
+We can have a backlog of talks and then decide at the event which talks we are most interested in as a group, so please keep adding!
+
+1. [@brendandebeasi](https://github.com/brendandebeasi) - Bond Bridge RF automation for ceiling fans and similar items with the remote
+1. [@brendandebeasi](https://github.com/brendandebeasi) - ESPhome integration that allows you to connect most mini split air conditioners, and heat pumps
+1. [@plars3n](https://github.com/plars3n) - Z-Wave, when a direct association is a good idea.
+1. [@plars3n](https://github.com/plars3n) - Where to locate keypads in a home layout.
+1. [@plars3n](https://github.com/plars3n) - Centralized vs on-camera recording of IP cameras in HA.
+1. [Your Name] - [Talk title]
+1. [Your Name] - [Talk title]
 1. [Your Name] - [Talk title]
 1. [Your Name] - [Talk title]
 1. [Your Name] - [Talk title]
