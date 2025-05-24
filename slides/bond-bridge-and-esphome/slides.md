@@ -80,7 +80,6 @@ color: #333333
 
 # ESPHome Integration
 
-## What is ESPHome?
 ESPHome is a system for controlling microcontrollers (like ESP32) through configuration files, with direct Home Assistant integration.
 
 ![width:200px](img/esphome-usb.jpg)
@@ -91,22 +90,17 @@ ESPHome is a system for controlling microcontrollers (like ESP32) through config
   - github.com/lizardsystems/midea-mini-dongle
   - github.com/dudanov/iot-uni-dongle
 
-## Integration Point
-Most indoor units include a USB port for connectivity dongles
-
 ---
 
 # Setup
 ![width:200px](img/esphome-head.jpg)
-## Docs
-- [Official](https://esphome.io/components/climate/midea.html)
-- [Old Docs, What I Used](https://github.com/uncle-yura/esphome-midea-ac)
 
 ## Available Controls
 - Temperature and fan speed adjustment
 - Mode selection (heat, cool, auto)
 - Scheduling and automation
 - Energy monitoring (model dependent)
+[Official](https://esphome.io/components/climate/midea.html) / [Old Docs, What I Used](https://github.com/uncle-yura/esphome-midea-ac)
 
 ---
 
@@ -140,10 +134,5 @@ Most indoor units include a USB port for connectivity dongles
 
 ---
 
-<!-- 
-Speaker Notes: 
-- Total presentation time: 8-10 minutes
-- Reserve 2-3 minutes for audience questions
-- Consider including demo videos or screenshots
-- Prepare Bond CLI and ESPHome configuration examples as supplementary material
--->
+# That's All!
+## Questions? Comments?
